@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674765662102",
+    "project_id": "demoreact-dd0e1",
+    "storage_bucket": "demoreact-dd0e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674765662102:android:a8de639893dffaac249fb7",
+        "android_client_info": {
+          "package_name": "com.demoreact"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUlJX3rvcKT13Hjq_SCt0hrf2pWVTfSwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
